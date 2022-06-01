@@ -1,0 +1,66 @@
+.has-bg-img{
+    height: 135px;
+    background-image:url('../images/unilorin.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(17, 17, 99) ;
+    height: 19vh;
+}
+.name{
+    letter-spacing: 5px;
+}
+.navbar{
+    background-color: rgb(14, 14, 118);
+    color: white;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.nav-link{
+    color: white;
+}
+.side-column{
+    font-weight: 500;
+}
+.last-seen{
+    margin-left: 36vw;
+    text-transform: capitalize;
+}
+.table td a{
+    color:rgb(17, 17, 99) ;
+    text-decoration: none;
+}
+.fa-check{
+    color: rgb(79, 206, 79);
+}
+h6{
+    text-decoration: underline;
+}
+.span{
+    font-size: 16px;
+}
+.procedure a{
+    text-decoration: none;
+    color: rgb(14, 14, 118) ;
+    font-size: 14px;
+    font-weight: 500;
+}
+.procedure a:hover{
+    color: rgb(74, 202, 74);
+}
+.better{
+    font-size: 16px;
+    font-weight: 500;
+}
+h6{
+    text-decoration: none;
+}
+.email-login{
+    font-size: 24px;
+}
+.thanks{
+    font-size: 14px;
+}
+.copyright{
+   background-color:  rgb(14, 14, 118);
+   font-size: 12px;
+}
